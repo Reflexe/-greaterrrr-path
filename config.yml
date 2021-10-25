@@ -1,10 +1,12 @@
-title: '">\rrr'
-description: test\A\R
+title: '">\rrr">dsa'
+description: test\A\R"%00ccs
 steps:
-  - course: githubtraining/introduction-to-github
+  - course: githubtraining/introduction-to-github%00\!40400404
     description: The first step in your course
-  - link: 'https://lab.github.com'
-    title: Check out Learning Lab for more courses!
+  - link: '\\https://lab.github.com">\\%00\\\\'
+    title: Check out Learning Lab for more courses!">%00">>>>">$$>
     description: >-
       There are many more courses available on Learning Lab for you to check
       out.
+    course: fdfd
+    video: \\^--^^
